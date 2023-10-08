@@ -4,11 +4,11 @@
   <version>0.0.1</version>
   <description>NOthing Here BYE</description>
 
-  <maintainer email="Pawarat.phatthanaphusakun-1@student.uts.edu.au">Pawarat Phatthanaphusakun</maintainer>
+  <maintainer email="milo.boyd@student.uts.edu.au">Milo Boyd</maintainer>
 
   <license>MIT</license>
 
-  <author email="Pawarat.phatthanaphusakun-1@student.uts.edu.au">Pawarat Phatthanaphusakun</author>
+  <author email="milo.boyd@student.uts.edu.au">Milo Boyd</author>
 
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>roscpp</build_depend>
