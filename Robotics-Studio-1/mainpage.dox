@@ -1,4 +1,4 @@
-/**
+**
  * @mainpage Autonomous Supply Chain Management Robot
  *
  * @image html Warehouse.png
@@ -27,34 +27,8 @@
  *   reduction of workplace injuries, alleviate labor shortages, and elevate overall factory
  *   productivity.
  *
- * @section usage_sec Usage
- *
- * This documentation serves as a comprehensive resource for developers, engineers, and
- * researchers engaged in the development, maintenance, and integration of autonomous robots
- * for supply chain management. You will find detailed class documentation, code examples,
- * and best practices for working with our robot control system.
- *
- * @section contact_sec Contact Information
- *
- * If you have questions, feedback, or collaboration inquiries related to this project, please
- * feel free to contact us at Pawarat.Phatthanaphusakun-1@student.uts.edu.au.
- *
- * @section license_sec License
- *
- * This project is open-source and subject to the terms of the Pawarat Phatthanaphusakun.
- * You can find the project's source code and licensing information in the repository linked below:
- *
- * Project Repository: [https://github.com/PkPawarat/Robotics-Studio-1.git](https://github.com/PkPawarat/Robotics-Studio-1.git)
- *
- * @section acknowledgements_sec Acknowledgments
- *
- * We would like to express our gratitude to all contributors, researchers, and developers who
- * have made this project possible. Your dedication to advancing robotics technology is greatly
- * appreciated.
- *
- * @section author_sec Author Information
- *
- * - Author: Pawarat Phatthanaphusakun
- * - Student ID: 13662352
- * - Email: Pawarat.Phatthanaphusakun-1@student.uts.edu.au
+ * @section author_sec Authors
+ * - Author: Milo Boyd
+ * - Student ID: 14265185
+ * - Email: milo.boyd@student.uts.edu.au
  */
